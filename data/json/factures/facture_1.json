@@ -1,0 +1,8 @@
+{
+  "id_facture": 1,
+  "montant_total": 50.0,
+  "date_emission": "2023-10-01",
+  "statut_facture": "Payée",
+  "reduction_appliquee": 0.0,
+  "id_vente": 1
+}

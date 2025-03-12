@@ -1,0 +1,9 @@
+{
+  "id_client": 1,
+  "nom": "Dupont",
+  "prenom": "Jean",
+  "email": "jean.dupont@example.com",
+  "telephone": "0123456789",
+  "numero_secu": "1234567890123",
+  "adresse": "1 Rue de la Paix, Paris"
+}

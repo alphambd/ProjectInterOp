@@ -1,0 +1,5 @@
+streamlit
+py2neo
+mysql-connector-python
+pandas
+plotly

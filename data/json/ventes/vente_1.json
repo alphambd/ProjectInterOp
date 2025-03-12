@@ -1,0 +1,8 @@
+{
+  "id_vente": 1,
+  "date_vente": "2023-10-01",
+  "heure_vente": "14:30:00",
+  "quantite_vendue": 2,
+  "methode_paiement": "Carte",
+  "id_client": 1
+}

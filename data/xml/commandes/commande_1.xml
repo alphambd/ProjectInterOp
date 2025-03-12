@@ -1,0 +1,9 @@
+<Commande>
+    <id_commande>1</id_commande>
+    <date_commande>2023-10-01</date_commande>
+    <statut>En cours</statut>
+    <quantite_commandee>100</quantite_commandee>
+    <urgence>Normal</urgence>
+    <id_medicament>1</id_medicament>
+    <id_fournisseur>1</id_fournisseur>
+</Commande>

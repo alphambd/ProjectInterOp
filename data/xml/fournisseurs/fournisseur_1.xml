@@ -1,0 +1,8 @@
+<Fournisseur>
+    <id_fournisseur>1</id_fournisseur>
+    <nom_fournisseur>PharmaSupply</nom_fournisseur>
+    <adresse>10 Rue des Fournisseurs, Lyon</adresse>
+    <telephone>0987654321</telephone>
+    <email>contact@pharmasupply.com</email>
+    <delai_livraison>5</delai_livraison>
+</Fournisseur>
